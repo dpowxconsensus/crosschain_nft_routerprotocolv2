@@ -1,4 +1,4 @@
-# Cross Chain NFT with layerzero
+# Cross Chain NFT with routerv2
 
 Try running some of the following tasks:
 
